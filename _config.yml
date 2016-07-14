@@ -1,7 +1,7 @@
 name: pruebalocomotion
 favicon: null
-layout_spectrum: 0.5678363055922091
-typography_spectrum: 0.015385486651211977
+layout_spectrum: 1
+typography_spectrum: 0.25041
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.47311970219016075
-  lightness: 0.2498980003874749
-  saturation: 0.704353483626619
-  rhythmicContrast: 0.42178009334020317
+    - '#0a0b1e'
+    - '#6267a4'
+    - '#35418e'
+    - '#8a96c3'
+    - '#bbbbce'
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.3125
+  rhythmicContrast: 1
 purpose: []
